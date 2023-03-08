@@ -1,6 +1,6 @@
 ﻿# Bomberman Game - a simple Bomberman clone with little improvements
 
-## Deploy - https://bomberman2d.netlify.app/
+## Deploy - https://alexmegadrive.github.io/bomberman-game/
 
 ### Please, use arrow keys, Space, Esc, Enter
 
