@@ -8,6 +8,7 @@
 
 - Made with Phaser framework and TypeScript
 - Bonuses from original game + new bonuses (Shield, Berserk)
+- Game score system
 - Automatic level difficulty increasment (enemies counter, enemies speed, field size)
 - Ability to change controls
 - Saving and resuming game
